@@ -1,0 +1,41 @@
+.grid-design{
+    display: grid;
+    grid-template-columns: repeat(3,4fr);
+    
+    
+}
+.grid-design div{
+    height: 100px;
+    text-align: center;
+}
+h3 {
+    margin-top: 45px;
+    font-size: 20px;
+}
+#one{
+    background-color: brown;
+}
+#two{
+    background-color:rgb(131, 173, 16) ;
+}
+#three{
+    background-color:skyblue ;
+}
+#four{
+    background-color: #356178;
+}
+#five{
+    background-color: #4a28c4cd;
+}
+#six{
+    background-color:purple ;
+}
+#seven{
+    background-color: rgb(31, 28, 209);
+}
+#eight{
+    background-color: brown;
+}
+#nine{
+    background-color:skyblue ;
+}
